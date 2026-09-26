@@ -80,7 +80,6 @@ This plot adds information beyond the UMAP because it allows the expression leve
 
 The Ventricular_Cardiomyocyte cluster was selected to examine its marker genes.
 
-The cluster marker table provided the following top marker genes:
 **Table 1.** _Cluster marker with top marker genes._
 | Marker Gene | Z-score |
 |---|---:|
