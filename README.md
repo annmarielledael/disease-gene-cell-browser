@@ -96,7 +96,7 @@ KCNQ1 was not one of the three top marker genes shown in this table. Therefore, 
 
 For comparison, MYBPC3 was selected as a marker gene from the Ventricular_Cardiomyocyte cluster.
 
-Comparison
+**Table 1.** _Comparison between the features of the disease gene and the marker gene._
 
 | Feature | KCNQ1 | MYBPC3 |
 |---|---|---|
@@ -115,23 +115,23 @@ KCNQ1 is located on chromosome 11, and the previous UCSC Genome Browser activity
 
 1. What did UCSC Cell Browser show that UCSC Genome Browser could not?
 
-UCSC Cell Browser showed where KCNQ1 is expressed across different cell types at the single-cell level. It allowed me to compare expression patterns among cell populations, while UCSC Genome Browser focused more on the gene's genomic location, structure, annotations, and variants.
+          UCSC Cell Browser showed where KCNQ1 is expressed across different cell types at the single-cell level. It allowed me to compare expression patterns among cell populations, while UCSC Genome Browser focused more on the gene's genomic location, structure, annotations, and variants.
 
 2. Why can the same gene have different expression among different cell types?
 
-Different cell types have different functions and therefore require different sets and levels of genes to be active. In the Heart Cell Atlas dataset, KCNQ1 showed stronger expression in cardiomyocyte populations than in several other cell types.
+          Different cell types have different functions and therefore require different sets and levels of genes to be active. In the Heart Cell Atlas dataset, KCNQ1 showed stronger expression in cardiomyocyte populations than in several other cell types.
 
 3. Why should we be careful when interpreting zero or very low expression in single-cell data?
 
-Zero or very low expression does not necessarily mean that a gene is completely absent from a cell. Single-cell data can contain undetected or low-expression values because of the methods used to measure and process individual cells.
+          Zero or very low expression does not necessarily mean that a gene is completely absent from a cell. Single-cell data can contain undetected or low-expression values because of the methods used to measure and process individual cells.
 
 4. Why is it useful to combine genomic location, genetic variants, and cell-specific expression?
 
-Combining these types of information provides a broader understanding of a disease-associated gene. Genomic location shows where the gene is found, genetic variants provide information about possible disease-associated changes, and cell-specific expression shows which cell types may be relevant to the gene's activity.
+          Combining these types of information provides a broader understanding of a disease-associated gene. Genomic location shows where the gene is found, genetic variants provide information about possible disease-associated changes, and cell-specific expression shows which cell types may be relevant to the gene's activity.
 
 5. What was the most interesting observation?
 
-The most interesting observation was that KCNQ1 showed stronger expression in atrial and ventricular cardiomyocytes in the Heart Cell Atlas dataset. Comparing KCNQ1 with the ventricular cardiomyocyte marker MYBPC3 also showed that a disease-associated gene can be expressed in the same cell population as a cell-type marker while having a different expression pattern.
+          The most interesting observation was that KCNQ1 showed stronger expression in atrial and ventricular cardiomyocytes in the Heart Cell Atlas dataset. Comparing KCNQ1 with the ventricular cardiomyocyte marker MYBPC3 also showed that a disease-associated gene can be expressed in the same cell population as a cell-type marker while having a different expression pattern.
 
 ## 11. References and Links
 
